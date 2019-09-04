@@ -1,0 +1,54 @@
+//########################################
+//## FONT VARIABLES ######################
+//########################################
+$font-primary: Helvetica,
+Arial,
+sans-serif;
+
+$font-main: "montserrat-regular";
+$font-main-semibold: "montserrat-semibold";
+$font-main-semibolditalic: "montserrat-semibolditalic";
+$font-main-black: "montserrat-black";
+$font-main-blackitalic: "montserrat-blackitalic";
+$font-main-bold: "montserrat-bold";
+$font-main-bolditalic: "montserrat-bolditalic";
+$font-main-extrabold: "montserrat-extrabold";
+$font-main-extrabolditalic: "montserrat-extrabolditalic";
+$font-main-extralight: "montserrat-extralight";
+$font-main-extralightitalic: "montserrat-extralightitalic";
+$font-main-hairline: "montserrat-hairline";
+$font-main-italic: "montserrat-italic";
+$font-main-light: "montserrat-light";
+$font-main-lightitalic: "montserrat-lightitalic";
+$font-main-medium: "montserrat-medium";
+$font-main-mediumitalic: "montserrat-mediumitalic";
+$font-main-thin: "montserrat-thin";
+$font-main-thinitalic: "montserrat-thinitalic";
+
+// @include font-face($font-main, "montserrat-regular");
+// @include font-face($font-main-semibold, "montserrat-semibold");
+// @include font-face($font-main-semibolditalic, "montserrat-semibolditalic");
+// @include font-face($font-main-black, "montserrat-black");
+// @include font-face($font-main-blackitalic, "montserrat-blackitalic");
+// @include font-face($font-main-bold, "montserrat-bold");
+// @include font-face($font-main-bolditalic, "montserrat-bolditalic");
+// @include font-face($font-main-extrabold, "montserrat-extrabold");
+// @include font-face($font-main-extrabolditalic, "montserrat-extrabolditalic");
+// @include font-face($font-main-extralight, "montserrat-extralight");
+// @include font-face($font-main-extralightitalic, "montserrat-extralightitalic");
+// @include font-face($font-main-hairline, "montserrat-hairline");
+// @include font-face($font-main-italic, "montserrat-italic");
+// @include font-face($font-main-light, "montserrat-light");
+// @include font-face($font-main-lightitalic, "montserrat-lightitalic");
+// @include font-face($font-main-medium, "montserrat-medium");
+// @include font-face($font-main-mediumitalic, "montserrat-mediumitalic");
+// @include font-face($font-main-thin, "montserrat-thin");
+// @include font-face($font-main-thinitalic, "montserrat-thinitalic");
+
+
+//########################################
+//## SIZES ###############################
+//########################################
+
+$browser-context: 16; // px
+$browser-line-height: 16; // px

@@ -1,0 +1,23 @@
+$black: #000000;
+$white: #FFFFFF;
+
+//#######################################
+//## PROJECT COLORS #####################
+//#######################################
+$main-color : #8c8c8c;
+$main-red : #e81350;
+$main-darkblue : #151572;
+$main-cyan : #05e8bc;
+$main-cyan-light : #15ffe6;
+$main-lightblue : #29b3ff;
+$main-purple : #7254e2;
+
+//#######################################
+//## OVERRIDES ##########################
+//#######################################
+
+$default-body-text-color: $main-color;
+$default-body-link-color: $main-darkblue;
+
+$default-selection-text-color: $white;
+$default-selection-bg-color: $main-darkblue;
